@@ -1,0 +1,31 @@
+C:\test\AccessChk
+  RW BUILTIN\Administrators
+  RW NT AUTHORITY\SYSTEM
+  R  BUILTIN\Users
+  RW NT AUTHORITY\Authenticated Users
+  RW CANERECTOR\logan
+C:\test\test2
+  RW BUILTIN\Administrators
+  RW NT AUTHORITY\SYSTEM
+  R  BUILTIN\Users
+  RW NT AUTHORITY\Authenticated Users
+  RW CANERECTOR\logan
+C:\test\AccessChk\test5
+  RW BUILTIN\Administrators
+  RW NT AUTHORITY\SYSTEM
+  R  BUILTIN\Users
+  RW NT AUTHORITY\Authenticated Users
+  RW CANERECTOR\logan
+C:\test\test2\test3
+  RW BUILTIN\Administrators
+  RW NT AUTHORITY\SYSTEM
+  R  BUILTIN\Users
+  RW NT AUTHORITY\Authenticated Users
+  RW CANERECTOR\logan
+C:\test\test2\test3\test4
+  RW BUILTIN\Administrators
+  RW NT AUTHORITY\SYSTEM
+  R  BUILTIN\Users
+  RW NT AUTHORITY\Authenticated Users
+  RW CANERECTOR\logan
+
